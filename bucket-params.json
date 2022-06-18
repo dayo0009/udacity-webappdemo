@@ -1,0 +1,10 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "HighAvailable-WebApp"
+  },
+  {
+    "ParameterKey": "BucketName",
+    "ParameterValue": "project2bucketdemo"
+  }
+]

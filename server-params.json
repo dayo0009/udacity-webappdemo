@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+    	"ParameterValue": "HighAvailable-WebApp"
+	},
+  	{
+		"ParameterKey": "InstanceType",
+		"ParameterValue": "t3.medium"
+	},
+	{
+		"ParameterKey": "AMItoUse",
+		"ParameterValue": "ami-0cff7528ff583bf9a"
+	}
+]
